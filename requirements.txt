@@ -1,0 +1,11 @@
+Flask
+Flask-PyMongo
+Werkzeug
+pymongo
+dnspython
+itsdangerous
+click
+Jinja2
+MarkupSafe
+gunicorn
+cohere
